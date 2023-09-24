@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Index on </title>
-    <link>https://abhishek-rawal.github.io/</link>
-    <description>Recent content in Test Index on </description>
+    <title>new-tag on </title>
+    <link>https://abhishek-rawal.github.io/new-tag/</link>
+    <description>Recent content in new-tag on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 16 Sep 2023 13:46:13 +0530</lastBuildDate><atom:link href="https://abhishek-rawal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Sep 2023 13:46:13 +0530</lastBuildDate><atom:link href="https://abhishek-rawal.github.io/new-tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>https://abhishek-rawal.github.io/a-first-post/</link>
